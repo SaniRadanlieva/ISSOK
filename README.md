@@ -1,0 +1,2 @@
+# ISSOK
+Laboratoriski vezbi
